@@ -1,4 +1,4 @@
-⌨ Pracuje nad PolarBot-em
+⌨ Pracuje nad PolarBot-em, oraz nad sobą
 
 🌴 Uczę sie obecnie wszystkiego XD
 
