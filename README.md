@@ -2,6 +2,6 @@
 
 🌴 Uczę sie obecnie wszystkiego XD
 
-📨 Kontakt Discord Polarskyy#7777
+📨 Kontakt Discord Polarskyy#0777
 
 ⚡ Fakt o mnie: Jestem bardzo początkującym programistą
