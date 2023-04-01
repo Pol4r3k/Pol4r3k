@@ -1,7 +1,15 @@
-⌨ Pracuje nad PolarBot-em, oraz nad sobą
+🌐 〢 O mnie
+★ Polak; 
+★ Umiem wszystko i nic;
+★ Masz sprawe? Pisz discord: Polarskyy#3654;
 
-🌴 Uczę sie obecnie wszystkiego XD
+📨 〢 Projekty
+✘ PolarBot 🟠
+✘ Polarskyy.xyz 🟡
+✘ PolarLauncher 🔴
+✘ HMC 🟢
+✘ Forest Kingdom 🟡
+✘ Douczenie się JS, Css, Java 🟡
 
-📨 Kontakt Discord Polarskyy#3654
-
-⚡ Fakt o mnie: Jestem bardzo początkującym programistą
+💾 〢 Specyfikacje komputera
+☢ Wstyd mówić
